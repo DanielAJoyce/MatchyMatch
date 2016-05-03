@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\Main.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\Main.cs" Line="458" Column="5" />
+      <File FileName="Assets\LevelSelectClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChooseSkin.cs" Line="1" Column="1" />
+      <File FileName="Assets\LoadOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\ShuffleButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\HOTween\HOTween.XML" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

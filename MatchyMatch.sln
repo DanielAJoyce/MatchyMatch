@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B835536C-9349-106A-F4B5-57449765190D}") = "MatchyMatch", "Assembly-CSharp.csproj", "{660CAD51-058B-18B0-3ED7-AEC5E60B7B24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660CAD51-058B-18B0-3ED7-AEC5E60B7B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660CAD51-058B-18B0-3ED7-AEC5E60B7B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660CAD51-058B-18B0-3ED7-AEC5E60B7B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660CAD51-058B-18B0-3ED7-AEC5E60B7B24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
